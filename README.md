@@ -3,8 +3,7 @@
 A full-stack dashboard application built for the Digitalflake Hackathon.
 
 ## Live Demo
-[Check out the Live Application here!](https://mighty-spoons-unite.loca.lt)
-
+[Check out the Live Application here!]http://localhost:5000/
 ## Features
 - **User Authentication**: Secure Login/Register with JWT.
 - **Global Table**: Responsive data table with ID, Name, Email, and Status.
